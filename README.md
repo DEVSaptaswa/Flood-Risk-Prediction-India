@@ -133,7 +133,7 @@ CSV_PATH = 'data/flood_risk_dataset_india.csv'
 
 ---
 
-## Author
+## Authors
 
-Austin Prakash[https://github.com/AUSTIN-9746]
-Saptaswa Sen[https://github.com/DEVSaptaswa]
+- [Austin Prakash](https://github.com/AUSTIN-9746)
+- [Saptaswa Sen](https://github.com/DEVSaptaswa)
