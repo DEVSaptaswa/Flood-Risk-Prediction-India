@@ -135,4 +135,5 @@ CSV_PATH = 'data/flood_risk_dataset_india.csv'
 
 ## Author
 
-Machine Learning Assignment — Flood Risk Prediction, India
+Austin Prakash[https://github.com/AUSTIN-9746]
+Saptaswa Sen[https://github.com/DEVSaptaswa]
